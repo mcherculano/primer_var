@@ -21,3 +21,5 @@ The goal of this notebook is to encourage the use of Vector Autoregressions (VAR
 * [5. Forecasting with VARs](#4)    
 * [6. Footnotes](#6)
 * [7. References](#7)
+
+Contents in the .html or .ipynb files.
